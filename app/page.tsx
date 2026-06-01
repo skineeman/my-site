@@ -3,7 +3,7 @@ const links = [
     title: "The Bakery Premium Discord Access",
     description:
       "Join the full trading community I am taking a major role in. Includes live trading from premarket to afterhours, alerts, trade ideas, trading bots, and a family-type vibe.",
-    url: "https://whop.com/checkout/plan_YzH9o9eeRflpY?a=skinee",
+    url: "https://whop.com/the-bakery-trading-group-paid-access/the-bakery-trading-group-5f/?a=skinee",
     tag: "Top Community",
     badge: "Most Popular",
     tagColor: "amber",
